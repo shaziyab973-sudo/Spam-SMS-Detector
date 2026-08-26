@@ -1,0 +1,8 @@
+{
+    "vocab_size": 5000,
+    "maxlen": 100,
+    "oov_token": "<OOV>",
+    "padding": "post",
+    "truncating": "post",
+    "num_words_fitted": 8670
+}
